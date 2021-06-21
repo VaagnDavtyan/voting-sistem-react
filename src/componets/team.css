@@ -1,0 +1,25 @@
+div.winner {
+  border-color: red;
+}
+
+.wrapper {
+  width: 300px;
+  height: 400px;
+  border: 0.5px solid gray;
+  margin-left: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  width: 150px;
+  
+}
+img {
+  width: 260px;
+}
+h3,
+p {
+  text-align: center;
+}
